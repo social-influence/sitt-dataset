@@ -5,7 +5,7 @@ Paper: "Unraveling SITT: Social Influence Technique Taxonomy and Detection with 
 ## Dataset Description
 
 The SITT taxonomy contains 58 social influence techniques, divided into 9 categories. 
-The full description and definitions is available in the paper.
+The full description and definitions are available in the paper.
 
 
 ### A. Appeal to a positive or negative image (*Image*)
